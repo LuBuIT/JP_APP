@@ -1,0 +1,68 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Juliano Pisquano",
+      "publisher": "Edivad",
+      "tray_image_file": "J_Tray.png",
+      "image_data_version":"1.0",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "JP_Angry.webp",
+          "emojis": ["😡"]
+        },
+        {
+          "image_file": "JP_Beggin.webp",
+          "emojis": ["🤤"]
+        },
+        {
+          "image_file": "JP_Classy.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "JP_Dead.webp",
+          "emojis": ["💀"]
+        },
+        {
+          "image_file": "JP_Frisky.webp",
+          "emojis": ["😋"]
+        },
+        {
+          "image_file": "JP_Sad.webp",
+          "emojis": ["😔"]
+        },
+        {
+          "image_file": "JP_Scared.webp",
+          "emojis": ["😨"]
+        },
+        {
+          "image_file": "JP_Shame.webp",
+          "emojis": ["🙄"]
+        },
+        {
+          "image_file": "JP_Sleepy.webp",
+          "emojis": ["😴"]
+        },
+        {
+          "image_file": "JP_Spring.webp",
+          "emojis": ["🥺"]
+        },
+        {
+          "image_file": "JP_Stoned.webp",
+          "emojis": ["😌"]
+        },
+        {
+          "image_file": "JP_Wet.webp",
+          "emojis": ["🥶"]
+        }
+      ]
+    }
+  ]
+}
