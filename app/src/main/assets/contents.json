@@ -1,6 +1,5 @@
 {
   "android_play_store_link": "",
-  "ios_app_store_link": "",
   "sticker_packs": [
     {
       "identifier": "1",
@@ -15,52 +14,104 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "JP_Angry.webp",
-          "emojis": ["😡"]
+          "image_file": "JP_Angry.webp"
         },
         {
-          "image_file": "JP_Beggin.webp",
-          "emojis": ["🤤"]
+          "image_file": "JP_Beggin.webp"
         },
         {
-          "image_file": "JP_Classy.webp",
-          "emojis": ["😎"]
+          "image_file": "JP_Classy.webp"
         },
         {
-          "image_file": "JP_Dead.webp",
-          "emojis": ["💀"]
+          "image_file": "JP_Dead.webp"
         },
         {
-          "image_file": "JP_Frisky.webp",
-          "emojis": ["😋"]
+          "image_file": "JP_Frisky.webp"
         },
         {
-          "image_file": "JP_Sad.webp",
-          "emojis": ["😔"]
+          "image_file": "JP_Sad.webp"
         },
         {
-          "image_file": "JP_Scared.webp",
-          "emojis": ["😨"]
+          "image_file": "JP_Scared.webp"
         },
         {
-          "image_file": "JP_Shame.webp",
-          "emojis": ["🙄"]
+          "image_file": "JP_Shame.webp"
         },
         {
-          "image_file": "JP_Sleepy.webp",
-          "emojis": ["😴"]
+          "image_file": "JP_Sleepy.webp"
         },
         {
-          "image_file": "JP_Spring.webp",
-          "emojis": ["🥺"]
+          "image_file": "JP_Spring.webp"
         },
         {
-          "image_file": "JP_Stoned.webp",
-          "emojis": ["😌"]
+          "image_file": "JP_Stoned.webp"
         },
         {
-          "image_file": "JP_Wet.webp",
-          "emojis": ["🥶"]
+          "image_file": "JP_Wet.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Otto il Bassotto",
+      "publisher": "Edivad",
+      "tray_image_file": "O_Tray.png",
+      "image_data_version":"1.0",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Cute.webp"
+        },
+        {
+          "image_file": "Ears.webp"
+        },
+        {
+          "image_file": "Proud.webp"
+        },
+        {
+          "image_file": "Shark.webp"
+        },
+        {
+          "image_file": "Sit.webp"
+        },
+        {
+          "image_file": "Sofa.webp"
+        },
+        {
+          "image_file": "Tongue.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Pato",
+      "publisher": "Edivad",
+      "tray_image_file": "P_Tray.png",
+      "image_data_version":"1.0",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Stand.webp"
+        },
+        {
+          "image_file": "Tongue.webp"
+        },
+        {
+          "image_file": "Greenfield.webp"
+        },
+        {
+          "image_file": "Pray.webp"
+        },
+        {
+          "image_file": "Tonguelaugh.webp"
         }
       ]
     }
